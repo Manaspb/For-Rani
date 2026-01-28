@@ -77,4 +77,6 @@ function displayCatHeart() {
 }
 
 // Display the cat.gif initially
+
 displayCat();
+console.log("I love you soooo much my babyyyy");
